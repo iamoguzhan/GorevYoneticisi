@@ -14,6 +14,6 @@
 
 ![Screenshot_7](https://user-images.githubusercontent.com/15313904/83680969-6134c500-a5ea-11ea-856c-4ae500922ae9.jpg)
 
-**--> Oluşturulmuş bir görev silinmek istenirse; görev kardının sağ üstünde bulunan çöp kutusuna basılarak istenilen görev silinebilir.**
+**--> Oluşturulmuş bir görev silinmek istenirse; görev kartının sağ üstünde bulunan çöp kutusuna basılarak istenilen görev silinebilir.**
 
 ![Screenshot_8](https://user-images.githubusercontent.com/15313904/83680987-68f46980-a5ea-11ea-9480-3b4b97cd453e.jpg)
