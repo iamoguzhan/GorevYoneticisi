@@ -1,6 +1,6 @@
 # Görev Yöneticisi
 
-Görev yöneticisi günlük, haftalık ve aylık işlerinizi planlamanıza yardımcı olur. 
+### Görev yöneticisi günlük, haftalık ve aylık işlerinizi planlamanıza yardımcı olur. 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/15313904/83679878-ce475b00-a5e8-11ea-8aa4-788b99087074.jpg)
 
