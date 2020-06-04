@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432599480347",
+    "firebase_url": "https://gorevyoneticisi-4f1ef.firebaseio.com",
+    "project_id": "gorevyoneticisi-4f1ef",
+    "storage_bucket": "gorevyoneticisi-4f1ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432599480347:android:639007344d53e418c6e0be",
+        "android_client_info": {
+          "package_name": "com.example.gorevyoneticisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432599480347-ej4kn2tq3t57nqgdojivdjur6cba5270.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gorevyoneticisi",
+            "certificate_hash": "d198988a08b9736462f656782dcb06a44bb77584"
+          }
+        },
+        {
+          "client_id": "432599480347-nj0mq84fagpreo3clqv538l6hddgh0k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4pHX3hTYcTT8US89qTVP671c_rFmvgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432599480347-nj0mq84fagpreo3clqv538l6hddgh0k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
